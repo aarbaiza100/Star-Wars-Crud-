@@ -1,53 +1,28 @@
 # Star-Wars-Crud-App
 
 
-Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This project is a CRUD app which allows the user to submit Star-Wars quotes and edit the character quotes as desired. Technologies include Express, Node.js and MongoDB. 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Must have Node.js installed 
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* check node version with command: $ node -v
+* Create folder for project. cd into folder, and run npm init. 
+* To install Express, run npm install express --save
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
 ## Help
+Check out (https://zellwk.com/blog/crud-express-mongodb/) if stuck on any part of the process. 
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## License
 
